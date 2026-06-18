@@ -1,0 +1,29 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aab
+*.jks
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Build outputs
+.externalNativeBuild
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.kt.bak
+out/
+
+# Signing keys
+*.jks
+*.keystore
+keystore.properties
